@@ -6,7 +6,7 @@
     "url":"https://archive.org/download/issac_eternal/isaac.swf",
     "config":"config",
     "size":"32",
-    "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/refs/heads/main/Issac/issac.webp"
+    "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Issac/issac.webp"
   },
   {
     "name":"Isaac Eternal",
@@ -15,6 +15,6 @@
     "url":"https://archive.org/download/issac_eternal/issac_eternal.swf",
     "config":"config",
     "size":"41",
-    "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/refs/heads/main/IsaacEternal/issac.webp"
+    "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/IsaacEternal/issac.webp"
   }
 ]
