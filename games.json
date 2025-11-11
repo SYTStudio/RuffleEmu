@@ -4,7 +4,7 @@
     "type":"Fantasy",
     "version":"1.48",
     "url":"https://archive.org/download/issac_eternal/isaac.swf",
-    "config":"config",
+    "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Isaac/controlsConfig.json",
     "size":"32",
     "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Issac/issac.webp"
   },
@@ -13,7 +13,7 @@
     "type":"Fantasy",
     "version":"1.666",
     "url":"https://archive.org/download/issac_eternal/issac_eternal.swf",
-    "config":"config",
+    "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/IsaacEternal/controlsConfig.json",
     "size":"41",
     "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/IsaacEternal/issac.webp"
   }
