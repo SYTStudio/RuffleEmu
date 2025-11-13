@@ -4,9 +4,9 @@
     "type":"Fantasy",
     "version":"1.48",
     "url":"https://archive.org/download/issac_eternal/isaac.swf",
-    "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Isaac/controlsConfig.json",
+    "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Issac/controlsConfig.json",
     "size":"32",
-    "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Isaac/game.webp"
+    "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Issac/game.webp"
   },
   {
     "name":"Isaac Eternal",
