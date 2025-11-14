@@ -3,6 +3,7 @@
     "name":"Isaac",
     "type":"Fantasy",
     "version":"1.48",
+    "orientation":"landscape",
     "url":"https://archive.org/download/issac_eternal/isaac.swf",
     "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Isaac/controlsConfig.json",
     "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Isaac/game.webp"
@@ -11,6 +12,7 @@
     "name":"Isaac Eternal",
     "type":"Fantasy",
     "version":"1.666",
+    "orientation":"landscape",
     "url":"https://archive.org/download/issac_eternal/issac_eternal.swf",
     "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/IsaacEternal/controlsConfig.json",
     "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/IsaacEternal/game.webp"
