@@ -2,19 +2,25 @@
   {
     "name":"Isaac",
     "type":"Fantasy",
-    "version":"1.48",
     "orientation":"landscape",
-    "url":"https://archive.org/download/issac_eternal/isaac.swf",
+    "url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Isaac/game.swf",
     "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Isaac/controlsConfig.json",
     "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/Isaac/game.webp"
   },
   {
     "name":"Isaac Eternal",
     "type":"Fantasy",
-    "version":"1.666",
     "orientation":"landscape",
-    "url":"https://archive.org/download/issac_eternal/issac_eternal.swf",
+    "url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/IsaacEternal/game.swf",
     "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/IsaacEternal/controlsConfig.json",
     "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/IsaacEternal/game.webp"
+  },
+  {
+    "name":"Meat Boy",
+    "type":"Platformer",
+    "orientation":"portrait",
+    "url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/MeatBoy/game.swf",
+    "config":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/MeatBoy/controlsConfig.json",
+    "img-url":"https://raw.githubusercontent.com/SYTStudio/RuffleEmu/main/MeatBoy/game.webp"
   }
 ]

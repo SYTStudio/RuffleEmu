@@ -1,0 +1,29 @@
+[
+  {
+    "type": "joystick",
+    "x": 0.28611111640930176,
+    "y": 0.824999988079071,
+    "mode": "4way",
+    "radiusDp": 110,
+    "JoyUp": "Arrow Up",
+    "JoyDown": "Arrow Down",
+    "JoyLeft": "Arrow Left",
+    "JoyRight": "Arrow Right"
+  },
+  {
+    "type": "button",
+    "x": 0.8107638955116272,
+    "y": 0.7100961804389954,
+    "sendKey": "Space",
+    "label": "JUMP",
+    "sizeDp": 110
+  },
+  {
+    "type": "button",
+    "x": 0.7045139074325562,
+    "y": 0.8187500238418579,
+    "sendKey": "Enter",
+    "label": "ENTER",
+    "sizeDp": 90
+  }
+]

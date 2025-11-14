@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "type": "joystick",
+    "x": 0.1477564126253128,
+    "y": 0.7340278029441833,
+    "mode": "8way",
+    "radiusDp": 100,
+    "JoyUp": "W",
+    "JoyDown": "S",
+    "JoyLeft": "A",
+    "JoyRight": "D"
+  },
+  {
+    "type": "joystick",
+    "x": 0.8538461327552795,
+    "y": 0.7194444537162781,
+    "mode": "4way",
+    "radiusDp": 100,
+    "JoyUp": "Arrow Up",
+    "JoyDown": "Arrow Down",
+    "JoyLeft": "Arrow Left",
+    "JoyRight": "Arrow Right"
+  },
+  {
+    "type": "button",
+    "x": 0.928044855594635,
+    "y": 0.359375,
+    "sendKey": "P",
+    "label": "PAUSE",
+    "sizeDp": 90
+  },
+  {
+    "type": "button",
+    "x": 0.6959936022758484,
+    "y": 0.5545138716697693,
+    "sendKey": "E",
+    "label": "BOMB",
+    "sizeDp": 90
+  },
+  {
+    "type": "button",
+    "x": 0.7988781929016113,
+    "y": 0.3940972089767456,
+    "sendKey": "Space",
+    "label": "USE",
+    "sizeDp": 90
+  },
+  {
+    "type": "button",
+    "x": 0.6783654093742371,
+    "y": 0.8385416865348816,
+    "sendKey": "Q",
+    "label": "PILLS",
+    "sizeDp": 90
+  }
+]
