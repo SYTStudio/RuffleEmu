@@ -1,7 +1,7 @@
 [
   {
-    "link":"https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-11-17/ruffle-nightly-2025_11_17-web-selfhosted.zip",
+    "link":"https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-11-22/ruffle-nightly-2025_11_22-web-selfhosted.zip",
     "type":"nightly"
-    "version":"251117"
+    "version":"251122"
   }
 ]

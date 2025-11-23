@@ -1,29 +1,46 @@
 [
   {
-    "type": "joystick",
-    "x": 0.28611111640930176,
-    "y": 0.824999988079071,
-    "mode": "4way",
-    "radiusDp": 110,
-    "JoyUp": "Arrow Up",
-    "JoyDown": "Arrow Down",
-    "JoyLeft": "Arrow Left",
-    "JoyRight": "Arrow Right"
-  },
-  {
     "type": "button",
-    "x": 0.8107638955116272,
-    "y": 0.7100961804389954,
+    "x": 0.7690972089767456,
+    "y": 0.7123397588729858,
     "sendKey": "Space",
-    "label": "JUMP",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "JUMP",
+    "rotation": 0,
     "sizeDp": 110
   },
   {
     "type": "button",
-    "x": 0.7045139074325562,
-    "y": 0.8187500238418579,
+    "x": 0.8777777552604675,
+    "y": 0.6243589520454407,
     "sendKey": "Enter",
-    "label": "ENTER",
+    "style": "A",
+    "shape": "BEAN",
+    "icon": "MENU",
+    "rotation": 35,
+    "sizeDp": 48
+  },
+  {
+    "type": "button",
+    "x": 0.1614583283662796,
+    "y": 0.7184295058250427,
+    "sendKey": "Arrow Left",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_LEFT",
+    "rotation": 0,
+    "sizeDp": 90
+  },
+  {
+    "type": "button",
+    "x": 0.41284722089767456,
+    "y": 0.7190704941749573,
+    "sendKey": "Arrow Right",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_RIGHT",
+    "rotation": 0,
     "sizeDp": 90
   }
 ]

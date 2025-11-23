@@ -1,9 +1,21 @@
 [
   {
+    "type": "button",
+    "x": 0.7004807591438293,
+    "y": 0.8142361044883728,
+    "sendKey": "Q",
+    "style": "A",
+    "shape": "BEAN",
+    "icon": "PILL",
+    "rotation": 255,
+    "sizeDp": 70
+  },
+  {
     "type": "joystick",
-    "x": 0.1477564126253128,
-    "y": 0.7340278029441833,
+    "x": 0.14358974993228912,
+    "y": 0.7194444537162781,
     "mode": "8way",
+    "style": "A",
     "radiusDp": 100,
     "JoyUp": "W",
     "JoyDown": "S",
@@ -12,9 +24,10 @@
   },
   {
     "type": "joystick",
-    "x": 0.8538461327552795,
-    "y": 0.7194444537162781,
+    "x": 0.8663461804389954,
+    "y": 0.7124999761581421,
     "mode": "4way",
+    "style": "A",
     "radiusDp": 100,
     "JoyUp": "Arrow Up",
     "JoyDown": "Arrow Down",
@@ -23,34 +36,46 @@
   },
   {
     "type": "button",
-    "x": 0.928044855594635,
-    "y": 0.359375,
+    "x": 0.965705156326294,
+    "y": 0.07152777910232544,
     "sendKey": "P",
-    "label": "PAUSE",
-    "sizeDp": 90
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "PAUSE",
+    "rotation": 0,
+    "sizeDp": 40
   },
   {
     "type": "button",
-    "x": 0.6959936022758484,
-    "y": 0.5545138716697693,
+    "x": 0.7222756147384644,
+    "y": 0.4784722328186035,
     "sendKey": "E",
-    "label": "BOMB",
-    "sizeDp": 90
+    "style": "A",
+    "shape": "BEAN",
+    "icon": "BOMB",
+    "rotation": 305,
+    "sizeDp": 65
   },
   {
     "type": "button",
-    "x": 0.7988781929016113,
-    "y": 0.3940972089767456,
+    "x": 0.8706730604171753,
+    "y": 0.33298611640930176,
     "sendKey": "Space",
-    "label": "USE",
-    "sizeDp": 90
+    "style": "A",
+    "shape": "BEAN",
+    "icon": "HAND",
+    "rotation": 0,
+    "sizeDp": 70
   },
   {
     "type": "button",
-    "x": 0.6783654093742371,
-    "y": 0.8385416865348816,
-    "sendKey": "Q",
-    "label": "PILLS",
-    "sizeDp": 90
+    "x": 0.03301282227039337,
+    "y": 0.0729166641831398,
+    "sendKey": "Escape",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "MENU",
+    "rotation": 0,
+    "sizeDp": 40
   }
 ]
