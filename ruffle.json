@@ -2,6 +2,7 @@
   {
     "link":"https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-11-22/ruffle-nightly-2025_11_22-web-selfhosted.zip",
     "type":"nightly",
+    "message":"- Added New Features\n- Better Compactibility\n- Fixed some bugs\n- Minor Update"
     "version":"251122"
   }
 ]
