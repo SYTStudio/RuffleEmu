@@ -1,0 +1,57 @@
+[
+  {
+    "type": "button",
+    "x": 0.125,
+    "y": 0.7256944179534912,
+    "sendKey": "Arrow Left",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_LEFT",
+    "rotation": 0,
+    "sizeDp": 125
+  },
+  {
+    "type": "button",
+    "x": 0.28205129504203796,
+    "y": 0.7291666865348816,
+    "sendKey": "Arrow Right",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_RIGHT",
+    "rotation": 0,
+    "sizeDp": 125
+  },
+  {
+    "type": "button",
+    "x": 0.9189102649688721,
+    "y": 0.5604166388511658,
+    "sendKey": "Arrow Up",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_UP",
+    "rotation": 0,
+    "sizeDp": 120
+  },
+  {
+    "type": "button",
+    "x": 0.7727563977241516,
+    "y": 0.8479166626930237,
+    "sendKey": "Arrow Down",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_DOWN",
+    "rotation": 0,
+    "sizeDp": 125
+  },
+  {
+    "type": "button",
+    "x": 0.7802884578704834,
+    "y": 0.5246527791023254,
+    "sendKey": "Space",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "HAND",
+    "rotation": 0,
+    "sizeDp": 90
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "type": "button",
+    "x": 0.8403846025466919,
+    "y": 0.6875,
+    "sendKey": "Space",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "SKULL",
+    "rotation": 0,
+    "sizeDp": 140
+  }
+]

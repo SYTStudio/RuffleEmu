@@ -1,0 +1,79 @@
+[
+  {
+    "type": "button",
+    "x": 0.8759615421295166,
+    "y": 0.731249988079071,
+    "sendKey": "Arrow Up",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_UP",
+    "rotation": 0,
+    "sizeDp": 140
+  },
+  {
+    "type": "button",
+    "x": 0.12019230425357819,
+    "y": 0.7798610925674438,
+    "sendKey": "Arrow Left",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_LEFT",
+    "rotation": 0,
+    "sizeDp": 125
+  },
+  {
+    "type": "button",
+    "x": 0.2788461446762085,
+    "y": 0.7861111164093018,
+    "sendKey": "Arrow Right",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_RIGHT",
+    "rotation": 0,
+    "sizeDp": 125
+  },
+  {
+    "type": "button",
+    "x": 0.7145833373069763,
+    "y": 0.7885416746139526,
+    "sendKey": "Arrow Down",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_DOWN",
+    "rotation": 0,
+    "sizeDp": 110
+  },
+  {
+    "type": "button",
+    "x": 0.7600961327552795,
+    "y": 0.4746527671813965,
+    "sendKey": "A",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "SWORD",
+    "rotation": 0,
+    "sizeDp": 110
+  },
+  {
+    "type": "button",
+    "x": 0.9177884459495544,
+    "y": 0.3982639014720917,
+    "sendKey": "S",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "CROSSHAIR",
+    "rotation": 0,
+    "sizeDp": 110
+  },
+  {
+    "type": "button",
+    "x": 0.5272436141967773,
+    "y": 0.8923611044883728,
+    "sendKey": "Q",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_ROTATE",
+    "rotation": 0,
+    "sizeDp": 64
+  }
+]

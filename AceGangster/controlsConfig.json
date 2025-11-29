@@ -1,0 +1,36 @@
+[
+  {
+    "type": "joystick",
+    "x": 0.1349359005689621,
+    "y": 0.7354166507720947,
+    "mode": "8way",
+    "style": "A",
+    "radiusDp": 90,
+    "JoyUp": "Arrow Up",
+    "JoyDown": "Arrow Down",
+    "JoyLeft": "Arrow Left",
+    "JoyRight": "Arrow Right"
+  },
+  {
+    "type": "button",
+    "x": 0.8804486989974976,
+    "y": 0.7631944417953491,
+    "sendKey": "Space",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "HAND",
+    "rotation": 0,
+    "sizeDp": 125
+  },
+  {
+    "type": "button",
+    "x": 0.7974358797073364,
+    "y": 0.5493055582046509,
+    "sendKey": "Z",
+    "style": "A",
+    "shape": "BEAN",
+    "icon": "KEY",
+    "rotation": 320,
+    "sizeDp": 85
+  }
+]

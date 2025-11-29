@@ -1,0 +1,35 @@
+[
+  {
+    "type": "button",
+    "x": 0.11923076957464218,
+    "y": 0.7541666626930237,
+    "sendKey": "Arrow Left",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_LEFT",
+    "rotation": 0,
+    "sizeDp": 125
+  },
+  {
+    "type": "button",
+    "x": 0.2887820601463318,
+    "y": 0.7597222328186035,
+    "sendKey": "Arrow Right",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "ARROW_RIGHT",
+    "rotation": 0,
+    "sizeDp": 125
+  },
+  {
+    "type": "button",
+    "x": 0.8846153616905212,
+    "y": 0.7770833373069763,
+    "sendKey": "Space",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "CROSSHAIR",
+    "rotation": 0,
+    "sizeDp": 125
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "type": "joystick",
+    "x": 0.14519231021404266,
+    "y": 0.7222222089767456,
+    "mode": "8way",
+    "style": "A",
+    "radiusDp": 100,
+    "JoyUp": "Arrow Up",
+    "JoyDown": "Arrow Down",
+    "JoyLeft": "Arrow Left",
+    "JoyRight": "Arrow Right"
+  },
+  {
+    "type": "button",
+    "x": 0.8605769276618958,
+    "y": 0.7131944298744202,
+    "sendKey": "Space",
+    "style": "A",
+    "shape": "CIRCLE",
+    "icon": "SWORD",
+    "rotation": 0,
+    "sizeDp": 125
+  }
+]
