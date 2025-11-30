@@ -1,8 +1,8 @@
 [
   {
-    "link":"https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-11-22/ruffle-nightly-2025_11_22-web-selfhosted.zip",
+    "https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-11-30/ruffle-nightly-2025_11_30-web-selfhosted.zip,
     "type":"nightly",
-    "message":"- Added New Features\n- Better Compactibility\n- Fixed some bugs\n- Minor Update",
-    "version":"251122"
+    "message":"- avm2: Reduce make_error code duplication using a macro.\n- tests: Fix some tests with broken config.\n- naga-agal: Fix indirect addressing with Float1 vertex attributes",
+    "version":"251130"
   }
 ]
