@@ -1,8 +1,8 @@
 [
   {
-    "link": "https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-11-30/ruffle-nightly-2025_11_30-web-selfhosted.zip",
+    "link": "https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-12-04/ruffle-nightly-2025_12_04-web-selfhosted.zip",
     "type":"nightly",
-    "message":"- avm2: Reduce make_error code duplication using a macro.\n- tests: Fix some tests with broken config.\n- naga-agal: Fix indirect addressing with Float1 vertex attributes",
-    "version":"251130"
+    "message":"- tests: Validate known-failure tests against current Ruffle output\n- build(deps): bump rfd from 0.15.4 to 0.16.0\n- avm1: Allow non-object prototypes in Object::new",
+    "version":"251204"
   }
 ]
