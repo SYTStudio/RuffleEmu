@@ -1,8 +1,8 @@
 [
   {
-    "link": "https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-12-04/ruffle-nightly-2025_12_04-web-selfhosted.zip",
+    "link": "https://github.com/ruffle-rs/ruffle/releases/download/nightly-2025-12-16/ruffle-nightly-2025_12_16-web-selfhosted.zip",
     "type":"nightly",
-    "message":"- tests: Validate known-failure tests against current Ruffle output\n- build(deps): bump rfd from 0.15.4 to 0.16.0\n- avm1: Allow non-object prototypes in Object::new",
-    "version":"251204"
+    "message":"- build(deps): bump the cargo-minor group with 2\n- chore: Update translations from Crowdin\n- build(deps): bump actions/upload-artifact from 5 to 6",
+    "version":"251216"
   }
 ]
